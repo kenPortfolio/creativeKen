@@ -9,6 +9,16 @@ body {
 	background-color: #FFFFFF;
 }
 
+html {
+    font-size: 100%;
+}
+
+body {
+    line-height: 1.4;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
 .infobox {
 	margin-left: 50px;
 	margin-right: 200px;
