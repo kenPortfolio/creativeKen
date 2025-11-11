@@ -126,6 +126,13 @@ table {
 	background-color: #a5d8dd;
 	margin-right: 50px;
 	margin-bottom: 20px;
+	width: 100%;
+    table-layout: fixed;
+}
+
+td:first-child,
+th:first-child {
+    width: 40%;
 }
 
 th {
