@@ -142,8 +142,9 @@ th {
 
 td {
 	border: 1px solid;
-	min-width: 800px;
+	/* min-width: 800px; */
 	/* padding-right: 20px; */
 	padding: 1px 10px 0px 10px;
-	max-width: 800px;
+	/* max-width: 800px; */
+	word-wrap: break-word;
 }
